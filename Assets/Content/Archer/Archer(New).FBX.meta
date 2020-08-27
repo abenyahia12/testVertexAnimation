@@ -1,0 +1,189 @@
+fileFormatVersion: 2
+guid: 15464ab790c9ddf48a2b2ad2fa7471e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Archer
+    100002: //RootNode
+    100004: Arrow
+    100006: Bip001
+    100008: Bip001 cape
+    100010: Bip001 Head
+    100012: Bip001 L Calf
+    100014: Bip001 L Foot
+    100016: Bip001 L Forearm
+    100018: Bip001 L Hand
+    100020: Bip001 L Thigh
+    100022: Bip001 L UpperArm
+    100024: Bip001 Pelvis
+    100026: Bip001 R Calf
+    100028: Bip001 R Foot
+    100030: Bip001 R Forearm
+    100032: Bip001 R Hand
+    100034: Bip001 R Thigh
+    100036: Bip001 R UpperArm
+    100038: Bip001 Spine
+    100040: Bone_Arrow
+    100042: Bone_Bow
+    100044: Bow
+    400000: Archer
+    400002: //RootNode
+    400004: Arrow
+    400006: Bip001
+    400008: Bip001 cape
+    400010: Bip001 Head
+    400012: Bip001 L Calf
+    400014: Bip001 L Foot
+    400016: Bip001 L Forearm
+    400018: Bip001 L Hand
+    400020: Bip001 L Thigh
+    400022: Bip001 L UpperArm
+    400024: Bip001 Pelvis
+    400026: Bip001 R Calf
+    400028: Bip001 R Foot
+    400030: Bip001 R Forearm
+    400032: Bip001 R Hand
+    400034: Bip001 R Thigh
+    400036: Bip001 R UpperArm
+    400038: Bip001 Spine
+    400040: Bone_Arrow
+    400042: Bone_Bow
+    400044: Bow
+    2100000: 03 - Default
+    2100002: 'Material #80'
+    2100004: 'Material #402'
+    2100006: 'Material #403'
+    2100008: 'Material #404'
+    2100010: 'Material #428'
+    2100012: 'Material #416'
+    2300000: Arrow
+    2300002: Bow
+    3300000: Arrow
+    3300002: Bow
+    4300000: Archer
+    4300002: Bow
+    4300004: Arrow
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Archer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: 4fba0b2ce894b41e081bfdc540028571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #402'
+    second: {fileID: 2100000, guid: e8ab3524443624047bf0dff832b6952d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #403'
+    second: {fileID: 2100000, guid: 4fba0b2ce894b41e081bfdc540028571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #404'
+    second: {fileID: 2100000, guid: e8ab3524443624047bf0dff832b6952d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #416'
+    second: {fileID: 2100000, guid: e8ab3524443624047bf0dff832b6952d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #428'
+    second: {fileID: 2100000, guid: 4fba0b2ce894b41e081bfdc540028571, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #80'
+    second: {fileID: 2100000, guid: e8ab3524443624047bf0dff832b6952d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
