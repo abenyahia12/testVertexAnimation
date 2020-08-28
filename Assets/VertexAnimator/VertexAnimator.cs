@@ -396,8 +396,8 @@ public class VertexAnimator : MonoBehaviour
         if (m_OverlayOpacityDirty)
         {
             m_OverlayOpacityDirty = false;
-            m_MaterialPropertyBlock.SetFloat(s_OverlayOpacityID, m_OverlayOpacity);
-            updatePropertyBlock = true;
+            //m_MaterialPropertyBlock.SetFloat(s_OverlayOpacityID, m_OverlayOpacity);
+            //updatePropertyBlock = true;
         }
 
         if (updatePropertyBlock && m_MeshRenderer)

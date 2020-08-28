@@ -114,6 +114,7 @@
 			fixed4 frag (v2f i) : SV_Target
 			{
 				fixed4 color1 = tex2D(_MainTex, i.uv0);
+                return color1;
 				fixed4 color2 = tex2D(_OverlayTex, i.uv1.xy);
 				return fixed4(color1.xyz * color1.w * (1 - color2.w * i.uv1.z) + color2.xyz * color2.w * i.uv1.z, 1.0);
 			}
